@@ -22,8 +22,14 @@ Lastly, is the complaint data provided by the NYPD and available through New Yor
 Almost of the data was clean. There were instances where my methodology forced data issues, but those issues were easily remediated since the null values were from non-existent items in each census block group, which were filled with zeroes.    
 
 
-Here's my sample website!
+Here's an interactive webmap highlighting the proportion of personal crimes, defined as any crime directing impacting a person, and the number of crimes within a 300 meter - or three block buffer - of parks and 800 meters - or 8 blocks -  of a library by block group!
 
-<iframe src="PersonalCrimes.html" height = "600" width = "1200"></iframe>
+<iframe src="PersonalCrimes.html" height = "600" width = "1000"></iframe>
 
 You can explore this map [as its own web page here](PersonalCrimes.html).
+
+Next is an interactive map showcasing all parks in NYC!
+
+
+
+
