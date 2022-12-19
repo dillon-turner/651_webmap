@@ -24,6 +24,6 @@ Almost of the data was clean. There were instances where my methodology forced d
 
 Here's my sample website!
 
-<iframe src="PropotionPersonalCrimes.html" height = "600" width = "600"></iframe>
+<iframe src="PersonalCrimes.html" height = "600" width = "600"></iframe>
 
-You can explore this map [as its own web page here](ProportionPersonalCrimes.html).
+You can explore this map [as its own web page here](PersonalCrimes.html).
