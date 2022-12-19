@@ -28,8 +28,10 @@ Here's an interactive webmap highlighting the proportion of personal crimes, def
 
 You can explore this map [as its own web page here](PersonalCrimes.html).
 
-Next is an interactive map showcasing all parks in NYC!
+Next is an interactive map showcasing a one block buffer surrounding all parks in NYC and a marker labeling 'Flagship' and 'Neighborhood' Parks!
 
+<iframe src="ParksNYC.html" height = "600" width = "1000"></iframe>
 
+You can explore this map [as its own web page here](ParksNYC.html).
 
 
